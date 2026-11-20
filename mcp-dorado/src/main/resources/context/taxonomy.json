@@ -1,0 +1,3475 @@
+{
+ "acestra amazonum": {
+  "valid_name": "farlowella amazonum",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "acestrorhynchus lacustris": {
+  "valid_name": "acestrorhynchus lacustris",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "acrolebias carvalhoi": {
+  "valid_name": "acrolebias carvalhoi",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "ageneiosus inermis": {
+  "valid_name": "ageneiosus inermis",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "ageneiosus militaris": {
+  "valid_name": "ageneiosus militaris",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "ageneiosus ucayalensis": {
+  "valid_name": "ageneiosus ucayalensis",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "ageniosus militaris": {
+  "valid_name": "ageneiosus militaris",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "anacyrtus cynopotamus knerii": {
+  "valid_name": "galeocharax gulo",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 1,
+  "ambiguous": 0
+ },
+ "ancistrus abilhoai": {
+  "valid_name": "ancistrus abilhoai",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "ancistrus agostinhoi": {
+  "valid_name": "ancistrus agostinhoi",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "ancistrus mullerae": {
+  "valid_name": "ancistrus mullerae",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "anostomus borellii": {
+  "valid_name": "schizodon borellii",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "apareiodon affinis": {
+  "valid_name": "apareiodon affinis",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "apareiodon ibitiensis": {
+  "valid_name": "apareiodon ibitiensis",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "apareiodon piracicabae": {
+  "valid_name": "apareiodon piracicabae",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "apareiodon vittatus": {
+  "valid_name": "apareiodon vittatus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "apareiodon vladii": {
+  "valid_name": "apareiodon vladii",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "aphyocharax anisitsi": {
+  "valid_name": "aphyocharax anisitsi",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "apteronotus caudimaculosus": {
+  "valid_name": "apteronotus caudimaculosus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "apteronotus ellisi": {
+  "valid_name": "apteronotus ellisi",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "aristichthys nobilis": {
+  "valid_name": "hypophthalmichthys nobilis",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "asiphonichthys stenopterus": {
+  "valid_name": "charax stenopterus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "astyanax alburnus": {
+  "valid_name": "diapoma alburnus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "astyanax altiparanae": {
+  "valid_name": "astyanax altiparanae",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "astyanax bifasciatus": {
+  "valid_name": "psalidon bifasciatus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "astyanax bimaculatus": {
+  "valid_name": "astyanax lacustris",
+  "alias_type": "alias",
+  "alias_is_synonym": 1,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "astyanax bockmanni": {
+  "valid_name": "psalidodon bockmanni",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "astyanax dissimilis": {
+  "valid_name": "psalidodon dissimilis",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "astyanax eremus": {
+  "valid_name": "astyanax eremus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "astyanax fasciatus": {
+  "valid_name": "psalidodon fasciatus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "astyanax gymnodontus": {
+  "valid_name": "psalidodon gymnodontus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "astyanax gymnogenys": {
+  "valid_name": "psalidodon gymnogenys",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "astyanax jordanensis": {
+  "valid_name": "astyanax jordanensis",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "astyanax lacustris": {
+  "ambiguous": 1,
+  "candidates": {
+   "astyanax altiparanae": {
+    "alias_type": "alias",
+    "alias_is_synonym": 1,
+    "current_is_synonym": 0
+   },
+   "astyanax lacustris": {
+    "alias_type": "valid",
+    "alias_is_synonym": 0,
+    "current_is_synonym": 0
+   }
+  }
+ },
+ "astyanax longirhinus": {
+  "valid_name": "psalidodon gymnogenys",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 1,
+  "ambiguous": 0
+ },
+ "astyanax minor": {
+  "valid_name": "psalidodon minor",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "astyanax paranae": {
+  "valid_name": "psalidodon paranae",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "astyanax scabripinnis": {
+  "valid_name": "psalidodon paranae",
+  "alias_type": "alias",
+  "alias_is_synonym": 1,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "astyanax scabripinnis paranae": {
+  "valid_name": "psalidodon paranae",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "astyanax schubarti": {
+  "valid_name": "psalidodon schubarti",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "astyanax serratus": {
+  "valid_name": "psalidodon serratus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "astyanax totae": {
+  "valid_name": "astyanax totae",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "astyanax varzeae": {
+  "valid_name": "psalidodon varzeae",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "atherina bonariensis": {
+  "valid_name": "odontesthes bonariensis",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "auchenipterus nuchalis": {
+  "valid_name": "auchenipterus osteomystax",
+  "alias_type": "alias",
+  "alias_is_synonym": 1,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "auchenipterus osteomystax": {
+  "valid_name": "auchenipterus osteomystax",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "australoheros angiru": {
+  "valid_name": "australoheros angiru",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "australoheros kaaygua": {
+  "valid_name": "australoheros kaaygua",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "austrolebias araucarianus": {
+  "valid_name": "garcialebias araucarianus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "austrolebias carvalhoi": {
+  "valid_name": "acrolebias carvalhoi",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "bario forestii": {
+  "valid_name": "bario forestii",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "bario sanctaefilomenae": {
+  "valid_name": "bario sanctaefilomenae",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "basilichthys bonariensis": {
+  "valid_name": "odontesthes bonariensis",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "brevidens striatus": {
+  "valid_name": "brevidens striatus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "brycon hilarii": {
+  "valid_name": "brycon hilarii",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "brycon nattereri": {
+  "valid_name": "brycon nattereri",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "brycon orbignyanus": {
+  "valid_name": "brycon orbignyanus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "bryconamericus coeruleus": {
+  "valid_name": "bryconamericus coeruleus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "bryconamericus exodon": {
+  "valid_name": "bryconamericus exodon",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "bryconamericus iheringii": {
+  "valid_name": "bryconamericus iheringii",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "bryconamericus ikaa": {
+  "valid_name": "bryconamericus ikaa",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "bryconamericus pyahu": {
+  "valid_name": "bryconamericus pyahu",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "bryconamericus stramineus": {
+  "valid_name": "piabarchus stramineus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "bryconamericus turiuba": {
+  "valid_name": "bryconamericus turiuba",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "bunocephalus larai": {
+  "valid_name": "bunocephalus larai",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "callichthys callichthys": {
+  "valid_name": "callichthys callichthys",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "callichthys littoralis": {
+  "valid_name": "hoplosternum littorale",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "callichthys paleatus": {
+  "valid_name": "hoplisoma paleatum",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "cambeva castroi": {
+  "valid_name": "cambeva castroi",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "cambeva crassicaudata": {
+  "valid_name": "cambeva crassicaudata",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "cambeva davisi": {
+  "valid_name": "cambeva davisi",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "cambeva diabola": {
+  "valid_name": "cambeva diabola",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "cambeva igobi": {
+  "valid_name": "cambeva igobi",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "cambeva mboycy": {
+  "valid_name": "cambeva mboycy",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "cambeva naipi": {
+  "valid_name": "cambeva naipi",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "cambeva papillifera": {
+  "valid_name": "cambeva papillifera",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "cambeva plumbea": {
+  "valid_name": "cambeva plumbea",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "cambeva stawiarski": {
+  "valid_name": "cambeva stawiarski",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "cambeva taroba": {
+  "valid_name": "cambeva taroba",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "carapus inaequilabiatus": {
+  "valid_name": "gymnotus inaequilabiatus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "ceratocheilus osteomystax": {
+  "valid_name": "auchenipterus osteomystax",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "cetopsis gobioides": {
+  "valid_name": "cetopsis gobioides",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "cetopsorhamdia iheringi": {
+  "valid_name": "cetopsorhamdia iheringi",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "cetopsorhamdia mirini": {
+  "valid_name": "imparfinis mirini",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "chaetostomus aculeatus": {
+  "valid_name": "megalancistrus parananus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 1,
+  "ambiguous": 0
+ },
+ "chalceus angulatus": {
+  "valid_name": "triportheus angulatus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "chalceus fasciatus": {
+  "valid_name": "psalidodon fasciatus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "chalceus hilarii": {
+  "valid_name": "brycon hilarii",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "chalceus orbignyanus": {
+  "valid_name": "brycon orbignyanus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "chalcinus nematurus": {
+  "valid_name": "triportheus nematurus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "characidium gomesi": {
+  "valid_name": "characidium gomesi",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "characidium heirmostigmata": {
+  "valid_name": "characidium heirmostigmata",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "characidium schubarti": {
+  "valid_name": "characidium schubarti",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "characidium travassosi": {
+  "valid_name": "characidium travassosi",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "characidium zebra": {
+  "valid_name": "characidium zebra",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "charax stenopterus": {
+  "valid_name": "charax stenopterus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "cheirodon notomelas": {
+  "valid_name": "serrapinnus notomelas",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "cheirodon stenodon": {
+  "valid_name": "cheirodon stenodon",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "chirodon eques": {
+  "valid_name": "megalamphodus eques",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "chromis brasiliensis": {
+  "valid_name": "geophagus brasiliensis",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "chromis niloticus": {
+  "valid_name": "oreochromis niloticus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "chromis rendalli": {
+  "valid_name": "coptodon rendalli",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "cichla kelberi": {
+  "valid_name": "cichla kelberi",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "cichla ocellaris": {
+  "valid_name": "cichla kelberi",
+  "alias_type": "alias",
+  "alias_is_synonym": 1,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "cichla piquiti": {
+  "valid_name": "cichla piquiti",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "cichlasoma paranaense": {
+  "valid_name": "cichlasoma paranaense",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "clarias gariepinus": {
+  "valid_name": "clarias gariepinus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "cnesterodon carnegiei": {
+  "valid_name": "cnesterodon carnegiei",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "cnesterodon hypselurus": {
+  "valid_name": "cnesterodon hypselurus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "cnesterodon omorgmatos": {
+  "valid_name": "cnesterodon omorgmatos",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "cobitis anguillicaudata": {
+  "valid_name": "misgurnus anguillicaudatus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "cochliodon cochliodon": {
+  "valid_name": "hypostomus cochliodon",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "coptodon rendalli": {
+  "valid_name": "coptodon rendalli",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "corydoras aeneus": {
+  "valid_name": "osteogaster aenea",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "corydoras carlae": {
+  "valid_name": "hoplisoma carlae",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "corydoras ehrhardti": {
+  "valid_name": "hoplisoma ehrhardti",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "corydoras lacrimostigmata": {
+  "valid_name": "hoplisoma lacrimostigmata",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "corydoras longipinnis": {
+  "valid_name": "hoplisoma longipinne",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "corydoras paleatus": {
+  "valid_name": "hoplisoma paleatum",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "crenicichla britskii": {
+  "valid_name": "saxatilia britskii",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "crenicichla haroldoi": {
+  "valid_name": "crenicichla haroldoi",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "crenicichla iguassuensis": {
+  "valid_name": "crenicichla iguassuensis",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "crenicichla jaguarensis": {
+  "valid_name": "crenicichla jaguarensis",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "crenicichla jupiaensis": {
+  "valid_name": "crenicichla jupiaensis",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "crenicichla tapii": {
+  "valid_name": "crenicichla tapii",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "crenicichla tesay": {
+  "valid_name": "crenicichla tesay",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "crenicichla tuca": {
+  "valid_name": "crenicichla tuca",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "crenicichla yaha": {
+  "valid_name": "crenicichla yaha",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "cruxentina insculpta": {
+  "valid_name": "steindachnerina insculpta",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "ctenobrycon kennedyi": {
+  "valid_name": "ctenobrycon kennedyi",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "ctenopharyngodon idella": {
+  "valid_name": "ctenopharyngodon idella",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "curculionichthys insperatus": {
+  "valid_name": "curculionichthys insperatus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "curculionichthys oliveirai": {
+  "valid_name": "curculionichthys oliveirai",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "curimatorbis modestus": {
+  "valid_name": "cyphocharax modestus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "curimatus gilberti brevipinnis": {
+  "valid_name": "steindachnerina brevipinna",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "curimatus nagelii": {
+  "valid_name": "cyphocharax naegelii",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "curimatus obtusidens": {
+  "valid_name": "megaleporinus obtusidens",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "cyanocharax alburnus": {
+  "valid_name": "diapoma alburnus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "cynolebias carvalhoi": {
+  "valid_name": "acrolebias carvalhoi",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "cyphocharax modestus": {
+  "valid_name": "cyphocharax modestus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "cyphocharax naegelii": {
+  "valid_name": "cyphocharax naegelii",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "cyphocharax nagelii": {
+  "valid_name": "cyphocharax naegelii",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "cyprinus carpio": {
+  "valid_name": "cyprinus carpio",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "diapoma alburnum": {
+  "valid_name": "diapoma alburnus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "diapoma alburnus": {
+  "valid_name": "diapoma alburnus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "diapoma guarani": {
+  "valid_name": "diapoma guarani",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "doras eigenmanni": {
+  "valid_name": "ossancora eigenmanni",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "doras granulosus": {
+  "valid_name": "pterodoras granulosus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "doras oxydoras dorbignyi": {
+  "valid_name": "rhinodoras dorbignyi",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "eigenmannia trilineata": {
+  "valid_name": "eigenmannia trilineata",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "eigenmannia virescens": {
+  "valid_name": "eigenmannia virescens",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "epactionotus yasi": {
+  "valid_name": "hisonotus yasi",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "eremophilus candidus": {
+  "valid_name": "trichomycterus candidus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "erythrinus erythrinus": {
+  "valid_name": "erythrinus erythrinus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "erythrinus unitaeniatus": {
+  "valid_name": "hoplerythrinus unitaeniatus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "esox malabaricus": {
+  "valid_name": "hoplias malabaricus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "farlowella amazona": {
+  "valid_name": "farlowella amazonum",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "farlowella amazonum": {
+  "valid_name": "farlowella amazonum",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "farlowella hahni": {
+  "valid_name": "farlowella hahni",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "fitzroyia eigenmanni": {
+  "valid_name": "jenynsia eigenmanni",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "galeocharax gulo": {
+  "valid_name": "galeocharax gulo",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 1,
+  "ambiguous": 0
+ },
+ "galeocharax knerii": {
+  "valid_name": "galeocharax gulo",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 1,
+  "ambiguous": 0
+ },
+ "garcialebias araucarianus": {
+  "valid_name": "garcialebias araucarianus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "geophagus brasiliensis": {
+  "ambiguous": 1,
+  "candidates": {
+   "geophagus brasiliensis": {
+    "alias_type": "valid",
+    "alias_is_synonym": 0,
+    "current_is_synonym": 0
+   },
+   "geophagus iporangensis": {
+    "alias_type": "alias",
+    "alias_is_synonym": 1,
+    "current_is_synonym": 0
+   }
+  }
+ },
+ "geophagus brasiliensis iporangensis": {
+  "valid_name": "geophagus iporangensis",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "geophagus iporangensis": {
+  "valid_name": "geophagus iporangensis",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "girardinus caudimaculatus": {
+  "valid_name": "phalloceros caudimaculatus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "glandulocauda caerulea": {
+  "valid_name": "glandulocauda caerulea",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "glanidium cesarpintoi": {
+  "valid_name": "glanidium cesarpintoi",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "glanidium neivai": {
+  "valid_name": "tatia neivai",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "glanidium ribeiroi": {
+  "valid_name": "glanidium ribeiroi",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "gymnogeophagus taroba": {
+  "valid_name": "gymnogeophagus taroba",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "gymnotus carapo": {
+  "valid_name": "gymnotus carapo",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "gymnotus carapo australis": {
+  "valid_name": "gymnotus carapo",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 1,
+  "ambiguous": 0
+ },
+ "gymnotus inaequilabiatus": {
+  "valid_name": "gymnotus inaequilabiatus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "gymnotus macrurus": {
+  "valid_name": "sternopygus macrurus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "gymnotus omarorum": {
+  "valid_name": "gymnotus omarorum",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "gymnotus pantanal": {
+  "valid_name": "gymnotus pantanal",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "gymnotus sylvius": {
+  "valid_name": "gymnotus sylvius",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hasemania maxillaris": {
+  "valid_name": "hasemania maxillaris",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hasemania melanura": {
+  "valid_name": "hasemania melanura",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hemidoras paraguayensis": {
+  "valid_name": "trachydoras paraguayensis",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hemigrammus anisitsi": {
+  "valid_name": "psalidodon anisitsi",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hemigrammus boulengeri": {
+  "valid_name": "hyphessobrycon boulengeri",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hemigrammus kennedyi": {
+  "valid_name": "ctenobrycon kennedyi",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hemiodus orthonops": {
+  "valid_name": "hemiodus orthonops",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hemisorubim platyrhynchos": {
+  "valid_name": "hemisorubim platyrhynchos",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "heptapterus borodini": {
+  "valid_name": "heptapterus longicauda",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 1,
+  "ambiguous": 0
+ },
+ "heptapterus hollandi": {
+  "valid_name": "heptapterus hollandi",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "heptapterus longicauda": {
+  "valid_name": "heptapterus longicauda",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 1,
+  "ambiguous": 0
+ },
+ "heptapterus mustelinus": {
+  "valid_name": "heptapterus mustelinus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "heptapterus stewarti": {
+  "valid_name": "heptapterus stewarti",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "heptapterus tenebrosus": {
+  "valid_name": "phenacorhamdia tenebrosa",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hisonotus depressinotus": {
+  "valid_name": "hisonotus paulinus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 1,
+  "ambiguous": 0
+ },
+ "hisonotus francirochai": {
+  "valid_name": "hisonotus francirochai",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hisonotus insperatus": {
+  "valid_name": "curculionichthys insperatus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hisonotus oliveirai": {
+  "valid_name": "curculionichthys oliveirai",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hisonotus pachysarkos": {
+  "valid_name": "hisonotus pachysarkos",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hisonotus paulinus": {
+  "valid_name": "hisonotus paulinus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 1,
+  "ambiguous": 0
+ },
+ "hisonotus yasi": {
+  "valid_name": "hisonotus yasi",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hoplerythrinus unitaeniatus": {
+  "valid_name": "hoplerythrinus unitaeniatus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hoplias intermedius": {
+  "valid_name": "hoplias intermedius",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hoplias malabaricus": {
+  "ambiguous": 1,
+  "candidates": {
+   "hoplias intermedius": {
+    "alias_type": "alias",
+    "alias_is_synonym": 1,
+    "current_is_synonym": 0
+   },
+   "hoplias malabaricus": {
+    "alias_type": "valid",
+    "alias_is_synonym": 0,
+    "current_is_synonym": 0
+   }
+  }
+ },
+ "hoplias mbigua": {
+  "valid_name": "hoplias mbigua",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hoplias microcephalus": {
+  "valid_name": "hoplias intermedius",
+  "alias_type": "alias",
+  "alias_is_synonym": 1,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hoplias misionera": {
+  "valid_name": "hoplias misionera",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hoplisoma carlae": {
+  "valid_name": "hoplisoma carlae",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hoplisoma ehrhardti": {
+  "valid_name": "hoplisoma ehrhardti",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hoplisoma lacrimostigmata": {
+  "valid_name": "hoplisoma lacrimostigmata",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hoplisoma longipinne": {
+  "valid_name": "hoplisoma longipinne",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hoplisoma paleatum": {
+  "valid_name": "hoplisoma paleatum",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hoplosoma aeneum": {
+  "valid_name": "osteogaster aenea",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hoplosternum littorale": {
+  "valid_name": "hoplosternum littorale",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "huro salmoides": {
+  "valid_name": "micropterus salmoides",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hydrocynus brasiliensis": {
+  "valid_name": "salminus brasiliensis",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hyphessobrycon anisitsi": {
+  "valid_name": "psalidodon anisitsi",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hyphessobrycon bifasciatus": {
+  "valid_name": "hyphessobrycon bifasciatus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hyphessobrycon boulengeri": {
+  "ambiguous": 1,
+  "candidates": {
+   "hyphessobrycon boulengeri": {
+    "alias_type": "valid",
+    "alias_is_synonym": 0,
+    "current_is_synonym": 0
+   },
+   "hyphessobrycon reticulatus": {
+    "alias_type": "alias",
+    "alias_is_synonym": 1,
+    "current_is_synonym": 0
+   }
+  }
+ },
+ "hyphessobrycon eques": {
+  "valid_name": "megalamphodus eques",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hyphessobrycon griemi": {
+  "valid_name": "hyphessobrycon griemi",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hyphessobrycon guarani": {
+  "valid_name": "diapoma guarani",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hyphessobrycon reticulatus": {
+  "valid_name": "hyphessobrycon reticulatus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hyphessobrycon taurocephalus": {
+  "valid_name": "hyphessobrycon taurocephalus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hypophthalmichthys molitrix": {
+  "valid_name": "hypophthalmichthys molitrix",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hypophthalmichthys nobilis": {
+  "valid_name": "hypophthalmichthys nobilis",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hypophthalmus oremaculatus": {
+  "valid_name": "hypophthalmus oremaculatus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hypostomus agna": {
+  "valid_name": "hypostomus agna",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hypostomus albopunctatus": {
+  "valid_name": "hypostomus albopunctatus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hypostomus ancistroides": {
+  "valid_name": "hypostomus ancistroides",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hypostomus cochliodon": {
+  "valid_name": "hypostomus cochliodon",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hypostomus commersoni": {
+  "valid_name": "hypostomus commersoni",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hypostomus derbyi": {
+  "valid_name": "hypostomus derbyi",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hypostomus hermanni": {
+  "valid_name": "hypostomus hermanni",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hypostomus iheringii": {
+  "valid_name": "hypostomus iheringii",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hypostomus margaritifer": {
+  "valid_name": "hypostomus margaritifer",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hypostomus myersi": {
+  "valid_name": "hypostomus myersi",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hypostomus nigromaculatus": {
+  "valid_name": "hypostomus nigromaculatus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hypostomus nigropunctatus": {
+  "valid_name": "hypostomus nigropunctatus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hypostomus regani": {
+  "valid_name": "hypostomus regani",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "hypostomus strigaticeps": {
+  "valid_name": "hypostomus strigaticeps",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "ictalurus punctatus": {
+  "valid_name": "ictalurus punctatus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "iheringichthys labrosus": {
+  "valid_name": "iheringichthys labrosus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "iheringichthys platanus": {
+  "valid_name": "megalonema platanum",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "imparfinis borodini": {
+  "valid_name": "heptapterus longicauda",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 1,
+  "ambiguous": 0
+ },
+ "imparfinis hollandi": {
+  "valid_name": "heptapterus hollandi",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "imparfinis mirini": {
+  "ambiguous": 1,
+  "candidates": {
+   "imparfinis mirini": {
+    "alias_type": "valid",
+    "alias_is_synonym": 0,
+    "current_is_synonym": 0
+   },
+   "imparfinis schubarti": {
+    "alias_type": "alias",
+    "alias_is_synonym": 1,
+    "current_is_synonym": 0
+   }
+  }
+ },
+ "imparfinis schubarti": {
+  "valid_name": "imparfinis schubarti",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "imparfinis tenebrosus": {
+  "valid_name": "phenacorhamdia tenebrosa",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "isbrueckerichthys calvus": {
+  "valid_name": "isbrueckerichthys calvus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "jenynsia diphyes": {
+  "valid_name": "jenynsia diphyes",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "jenynsia eigenmanni": {
+  "valid_name": "jenynsia eigenmanni",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "labrus salmoides": {
+  "valid_name": "micropterus salmoides",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "lebistes reticulata": {
+  "valid_name": "poecilia reticulata",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "leporellus vittatus": {
+  "valid_name": "leporellus vittatus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "leporinus amae": {
+  "valid_name": "leporinus amae",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "leporinus amblyrhynchus": {
+  "valid_name": "leporinus amblyrhynchus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "leporinus elongatus": {
+  "valid_name": "megaleporinus elongatus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "leporinus friderici": {
+  "valid_name": "leporinus friderici",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "leporinus lacustris": {
+  "valid_name": "leporinus lacustris",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "leporinus macrocephalus": {
+  "valid_name": "megaleporinus macrocephalus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "leporinus obtusidens": {
+  "valid_name": "megaleporinus obtusidens",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "leporinus octofasciatus": {
+  "valid_name": "leporinus octofasciatus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "leporinus piavussu": {
+  "valid_name": "megaleporinus piavussu",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "leporinus striatus": {
+  "valid_name": "brevidens striatus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "leporinus vittatus": {
+  "valid_name": "leporellus vittatus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "leuciscus idella": {
+  "valid_name": "ctenopharyngodon idella",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "leuciscus molitrix": {
+  "valid_name": "hypophthalmichthys molitrix",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "leuciscus nobilis": {
+  "valid_name": "hypophthalmichthys nobilis",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "liposarcus ambrosettii": {
+  "valid_name": "pterygoplichthys ambrosettii",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "loricaria latirostris": {
+  "valid_name": "rineloricaria latirostris",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "loricaria prolixa": {
+  "valid_name": "proloricaria prolixa",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "loricariichthys platymetopon": {
+  "valid_name": "loricariichthys platymetopon",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "loricariichthys rostratus": {
+  "valid_name": "loricariichthys rostratus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "macrodon intermedius": {
+  "valid_name": "hoplias intermedius",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "megalamphodus eques": {
+  "valid_name": "megalamphodus eques",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "megalancistrus aculeatus": {
+  "valid_name": "megalancistrus parananus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 1,
+  "ambiguous": 0
+ },
+ "megalancistrus parananus": {
+  "valid_name": "megalancistrus parananus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "megaleporinus elongatus": {
+  "valid_name": "megaleporinus elongatus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "megaleporinus macrocephalus": {
+  "valid_name": "megaleporinus macrocephalus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "megaleporinus obtusidens": {
+  "valid_name": "megaleporinus obtusidens",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "megaleporinus piavussu": {
+  "valid_name": "megaleporinus piavussu",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "megalonema platanum": {
+  "valid_name": "megalonema platanum",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "megalonema platanus": {
+  "valid_name": "megalonema platanum",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "metynnis maculatus": {
+  "valid_name": "metynnis maculatus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "microlepidogaster depressinotus": {
+  "valid_name": "hisonotus paulinus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 1,
+  "ambiguous": 0
+ },
+ "micropterus salmoides": {
+  "valid_name": "micropterus salmoides",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "mimagoniates microlepis": {
+  "valid_name": "mimagoniates microlepis",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "misgurnus anguillicaudatus": {
+  "valid_name": "misgurnus anguillicaudatus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "misgurnus fossilis": {
+  "valid_name": "misgurnus anguillicaudatus",
+  "alias_type": "alias",
+  "alias_is_synonym": 1,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "moenkhausia dichrourus intermedius": {
+  "valid_name": "moenkhausia intermedia",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "moenkhausia forestii": {
+  "valid_name": "bario forestii",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "moenkhausia gracilima": {
+  "valid_name": "moenkhausia gracilima",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "moenkhausia intermedia": {
+  "valid_name": "moenkhausia intermedia",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "moenkhausia lepidurus gracilimus": {
+  "valid_name": "moenkhausia gracilima",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "moenkhausia sanctaefilomenae": {
+  "valid_name": "bario sanctaefilomenae",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "myletes maculatus": {
+  "valid_name": "metynnis maculatus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "myletes myleus mesopotamicus": {
+  "valid_name": "piaractus mesopotamicus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "myletes tiete": {
+  "valid_name": "myloplus tiete",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "myleus tiete": {
+  "valid_name": "myloplus tiete",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "myloplus tiete": {
+  "valid_name": "myloplus tiete",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "nannorhamdia schubarti": {
+  "valid_name": "imparfinis schubarti",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "neoplecostomus paranensis": {
+  "valid_name": "neoplecostomus paranensis",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "neoplecostomus selenae": {
+  "valid_name": "neoplecostomus selenae",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "neoplecostomus yapo": {
+  "valid_name": "neoplecostomus yapo",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "odontesthes bonariensis": {
+  "valid_name": "odontesthes bonariensis",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "odontostilbe notomelas": {
+  "valid_name": "serrapinnus notomelas",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "odontostilbe stenodon": {
+  "valid_name": "cheirodon stenodon",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "oligosarcus longirostris": {
+  "valid_name": "oligosarcus longirostris",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "oligosarcus paranensis": {
+  "valid_name": "oligosarcus paranensis",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "oligosarcus pintoi": {
+  "valid_name": "oligosarcus pintoi",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "oreochromis niloticus": {
+  "valid_name": "oreochromis niloticus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "ossancora eigenmanni": {
+  "valid_name": "ossancora eigenmanni",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "osteogaster aenea": {
+  "valid_name": "osteogaster aenea",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "otocinclus depressinotus": {
+  "valid_name": "hisonotus paulinus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 1,
+  "ambiguous": 0
+ },
+ "otocinclus francirochai": {
+  "valid_name": "hisonotus francirochai",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "otothyropsis biamnicus": {
+  "valid_name": "otothyropsis biamnicus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "oxydoras eigenmanni": {
+  "valid_name": "ossancora eigenmanni",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "paca lineatus": {
+  "valid_name": "prochilodus lineatus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "paragoniates microlepis": {
+  "valid_name": "mimagoniates microlepis",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "parauchenipterus galeatus": {
+  "valid_name": "trachelyopterus galeatus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "paravandellia oxyptera": {
+  "valid_name": "paravandellia oxyptera",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "pareiorhaphis parmula": {
+  "valid_name": "pareiorhaphis parmula",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "pariolius hollandi": {
+  "valid_name": "heptapterus hollandi",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "parodon affinis": {
+  "valid_name": "apareiodon affinis",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "parodon nasus": {
+  "valid_name": "parodon nasus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "parodon piracicabae": {
+  "valid_name": "apareiodon piracicabae",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "parodon tortuosus": {
+  "valid_name": "parodon nasus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 1,
+  "ambiguous": 0
+ },
+ "paulicea jahu": {
+  "valid_name": "zungaro jahu",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "perca nilotica": {
+  "valid_name": "oreochromis niloticus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "phalloceros caudimaculatus": {
+  "valid_name": "phalloceros caudimaculatus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "phalloceros harpagos": {
+  "valid_name": "phalloceros harpagos",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "phalloceros reticulatus": {
+  "valid_name": "phalloceros harpagos",
+  "alias_type": "alias",
+  "alias_is_synonym": 1,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "phalloceros spiloura": {
+  "valid_name": "phalloceros spiloura",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "phenacorhamdia tenebrosa": {
+  "valid_name": "phenacorhamdia tenebrosa",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "piabarchus stramineus": {
+  "valid_name": "piabarchus stramineus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "piabina argentea": {
+  "valid_name": "piabina argentea",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "piaractus mesopotamicus": {
+  "valid_name": "piaractus mesopotamicus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "pimelodella avanhandavae": {
+  "valid_name": "pimelodella avanhandavae",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "pimelodella gracilis": {
+  "valid_name": "pimelodella gracilis",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "pimelodella taenioptera": {
+  "valid_name": "pimelodella taenioptera",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "pimelodus britskii": {
+  "valid_name": "pimelodus britskii",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "pimelodus clarias": {
+  "valid_name": "pimelodus maculatus",
+  "alias_type": "alias",
+  "alias_is_synonym": 1,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "pimelodus gracilis": {
+  "valid_name": "pimelodella gracilis",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "pimelodus heraldoi": {
+  "valid_name": "pimelodus microstoma",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 1,
+  "ambiguous": 0
+ },
+ "pimelodus labrosus": {
+  "valid_name": "iheringichthys labrosus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "pimelodus maculatus": {
+  "valid_name": "pimelodus maculatus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "pimelodus mangurus": {
+  "valid_name": "pseudopimelodus mangurus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "pimelodus microstoma": {
+  "valid_name": "pimelodus microstoma",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "pimelodus mustelinus": {
+  "valid_name": "heptapterus mustelinus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "pimelodus mysteriosus": {
+  "valid_name": "pimelodus mysteriosus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "pimelodus ornatus": {
+  "valid_name": "pimelodus ornatus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "pimelodus ortmanni": {
+  "valid_name": "pimelodus ortmanni",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "pimelodus paranaensis": {
+  "valid_name": "pimelodus paranaensis",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "pimelodus pirinampu": {
+  "valid_name": "pinirampus pirinampu",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "pimelodus platanus": {
+  "valid_name": "megalonema platanum",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "pimelodus pseudopimelodus pulcher": {
+  "valid_name": "rhyacoglanis pulcher",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "pimelodus quelen": {
+  "valid_name": "rhamdia quelen",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "pinirampus pirinampu": {
+  "valid_name": "pinirampus pirinampu",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "plagioscion squamosissimus": {
+  "valid_name": "plagioscion squamosissimus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "platystoma corruscans": {
+  "valid_name": "pseudoplatystoma corruscans",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "platystoma platyrhynchos": {
+  "valid_name": "hemisorubim platyrhynchos",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "plecostomus agna": {
+  "valid_name": "hypostomus agna",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "plecostomus albopunctatus": {
+  "valid_name": "hypostomus albopunctatus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "plecostomus ancistroides": {
+  "valid_name": "hypostomus ancistroides",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "plecostomus derbyi": {
+  "valid_name": "hypostomus derbyi",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "plecostomus hermanni": {
+  "valid_name": "hypostomus hermanni",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "plecostomus iheringii": {
+  "valid_name": "hypostomus iheringii",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "plecostomus margaritifer": {
+  "valid_name": "hypostomus margaritifer",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "plecostomus myersi": {
+  "valid_name": "hypostomus myersi",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "plecostomus nigromaculatus": {
+  "valid_name": "hypostomus nigromaculatus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "plecostomus regani": {
+  "valid_name": "hypostomus regani",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "plecostomus strigaticeps": {
+  "valid_name": "hypostomus strigaticeps",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "poecilia reticulata": {
+  "valid_name": "poecilia reticulata",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "porotergus ellisi": {
+  "valid_name": "apteronotus ellisi",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "potamotrygon amandae": {
+  "valid_name": "potamotrygon amandae",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "potamotrygon falkneri": {
+  "valid_name": "potamotrygon falkneri",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "prochilodus lineatus": {
+  "valid_name": "prochilodus lineatus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "proloricaria prolixa": {
+  "valid_name": "proloricaria prolixa",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "psalidodon anisitsi": {
+  "valid_name": "psalidodon anisitsi",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "psalidodon bockmanni": {
+  "valid_name": "psalidodon bockmanni",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "psalidodon dissimilis": {
+  "valid_name": "psalidodon dissimilis",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "psalidodon fasciatus": {
+  "valid_name": "psalidodon fasciatus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "psalidodon gymnodontus": {
+  "valid_name": "psalidodon gymnodontus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "psalidodon gymnogenys": {
+  "valid_name": "psalidodon gymnogenys",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "psalidodon minor": {
+  "valid_name": "psalidodon minor",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "psalidodon paranae": {
+  "valid_name": "psalidodon paranae",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "psalidodon schubarti": {
+  "valid_name": "psalidodon schubarti",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "psalidodon serratus": {
+  "valid_name": "psalidodon serratus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "psalidodon varzeae": {
+  "valid_name": "psalidodon varzeae",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "psalidon bifasciatus": {
+  "valid_name": "psalidon bifasciatus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "psellogrammus kennedyi": {
+  "valid_name": "ctenobrycon kennedyi",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "pseudocetopsis gobioides": {
+  "valid_name": "cetopsis gobioides",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "pseudopimelodus mangurus": {
+  "valid_name": "pseudopimelodus mangurus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "pseudopimelodus pulcher": {
+  "valid_name": "rhyacoglanis pulcher",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "pseudopimelodus zungaro": {
+  "ambiguous": 1,
+  "candidates": {
+   "pseudopimelodus mangurus": {
+    "alias_type": "alias",
+    "alias_is_synonym": 1,
+    "current_is_synonym": 0
+   },
+   "rhyacoglanis pulcher": {
+    "alias_type": "alias",
+    "alias_is_synonym": 1,
+    "current_is_synonym": 0
+   }
+  }
+ },
+ "pseudoplatystoma corruscans": {
+  "valid_name": "pseudoplatystoma corruscans",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "pseudoplatystoma fasciatum": {
+  "valid_name": "pseudoplatystoma reticulatum",
+  "alias_type": "alias",
+  "alias_is_synonym": 1,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "pseudoplatystoma fasciatum reticulatum": {
+  "valid_name": "pseudoplatystoma reticulatum",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "pseudoplatystoma reticulatum": {
+  "valid_name": "pseudoplatystoma reticulatum",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "pterodoras granulosus": {
+  "valid_name": "pterodoras granulosus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "pterygoplichthys ambrosettii": {
+  "valid_name": "pterygoplichthys ambrosettii",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "pterygoplichthys ancistrus parananus": {
+  "valid_name": "megalancistrus parananus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "pterygoplichthys parananus": {
+  "valid_name": "megalancistrus parananus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "pygidium davisi": {
+  "valid_name": "cambeva davisi",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "pygidium stawiarski": {
+  "valid_name": "cambeva stawiarski",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "pyrrhulina australe": {
+  "valid_name": "pyrrhulina australis",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "pyrrhulina australis": {
+  "valid_name": "pyrrhulina australis",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "rhamdia branneri": {
+  "ambiguous": 1,
+  "candidates": {
+   "rhamdia branneri": {
+    "alias_type": "valid",
+    "alias_is_synonym": 0,
+    "current_is_synonym": 0
+   },
+   "rhamdia voulezi": {
+    "alias_type": "alias",
+    "alias_is_synonym": 1,
+    "current_is_synonym": 0
+   }
+  }
+ },
+ "rhamdia branneri voulezi": {
+  "valid_name": "rhamdia voulezi",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "rhamdia quelen": {
+  "ambiguous": 1,
+  "candidates": {
+   "rhamdia branneri": {
+    "alias_type": "alias",
+    "alias_is_synonym": 1,
+    "current_is_synonym": 0
+   },
+   "rhamdia quelen": {
+    "alias_type": "valid",
+    "alias_is_synonym": 0,
+    "current_is_synonym": 0
+   }
+  }
+ },
+ "rhamdia voulezi": {
+  "valid_name": "rhamdia voulezi",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "rhamdiopsis moreirai": {
+  "valid_name": "rhamdiopsis moreirai",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "rhamphichthys hahni": {
+  "valid_name": "rhamphichthys hahni",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "rhaphiodon vulpinus": {
+  "valid_name": "rhaphiodon vulpinus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "rhinelepis aspera": {
+  "valid_name": "rhinelepis aspera",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "rhinodoras dorbignyi": {
+  "valid_name": "rhinodoras dorbignyi",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "rhyacoglanis pulcher": {
+  "valid_name": "rhyacoglanis pulcher",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "rineloricaria langei": {
+  "valid_name": "rineloricaria langei",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "rineloricaria latirostris": {
+  "valid_name": "rineloricaria latirostris",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "rineloricaria maacki": {
+  "valid_name": "rineloricaria maacki",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "rineloricaria pentamaculata": {
+  "valid_name": "rineloricaria pentamaculata",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "roeboides descalvadensis": {
+  "valid_name": "roeboides descalvadensis",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "salminus brasiliensis": {
+  "valid_name": "salminus brasiliensis",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "salminus hilarii": {
+  "valid_name": "salminus hilarii",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "salminus maxillosus": {
+  "valid_name": "salminus brasiliensis",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 1,
+  "ambiguous": 0
+ },
+ "salmo friderici": {
+  "valid_name": "leporinus friderici",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "saxatilia britskii": {
+  "valid_name": "saxatilia britskii",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "schizodon altoparanae": {
+  "valid_name": "schizodon altoparanae",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "schizodon borellii": {
+  "valid_name": "schizodon borellii",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "schizodon intermedius": {
+  "valid_name": "schizodon intermedius",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "schizodon nasutus": {
+  "valid_name": "schizodon nasutus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "sciaena squamosissima": {
+  "valid_name": "plagioscion squamosissimus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "serrapinnus notomelas": {
+  "valid_name": "serrapinnus notomelas",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "serrasalmus maculatus": {
+  "valid_name": "serrasalmus maculatus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "serrasalmus marginatus": {
+  "valid_name": "serrasalmus marginatus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "serrasalmus spilopleura": {
+  "valid_name": "serrasalmus spilopleura",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "silurus callichthys": {
+  "valid_name": "callichthys callichthys",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "silurus galeatus": {
+  "valid_name": "trachelyopterus galeatus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "silurus heterobranchus gariepinus": {
+  "valid_name": "clarias gariepinus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "silurus inermis": {
+  "valid_name": "ageneiosus inermis",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "silurus lima": {
+  "valid_name": "sorubim lima",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "silurus punctatus": {
+  "valid_name": "ictalurus punctatus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "sorubim lima": {
+  "valid_name": "sorubim lima",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "steindachneria scripta": {
+  "valid_name": "steindachneridion scriptum",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "steindachneridion inscriptum": {
+  "valid_name": "steindachneridion scriptum",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "steindachneridion melanodermatum": {
+  "valid_name": "steindachneridion melanodermatum",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "steindachneridion scripta": {
+  "valid_name": "steindachneridion scriptum",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "steindachneridion scriptum": {
+  "valid_name": "steindachneridion scriptum",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "steindachnerina brevipinna": {
+  "valid_name": "steindachnerina brevipinna",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "steindachnerina insculpta": {
+  "valid_name": "steindachnerina insculpta",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "sternachus virescens": {
+  "valid_name": "eigenmannia virescens",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "sternarchorhamphus hahni": {
+  "valid_name": "rhamphichthys hahni",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "sternarchorhynchus britski": {
+  "valid_name": "sternarchorhynchus britski",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "sternopygus macrurus": {
+  "valid_name": "sternopygus macrurus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "synbranchus marmoratus": {
+  "valid_name": "synbranchus marmoratus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "synodus erythrinus": {
+  "valid_name": "erythrinus erythrinus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "tatia aulopygia": {
+  "valid_name": "tatia neivai",
+  "alias_type": "alias",
+  "alias_is_synonym": 1,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "tatia jaracatia": {
+  "valid_name": "tatia jaracatia",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "tatia neivai": {
+  "valid_name": "tatia neivai",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "tetragonopterus alburnus": {
+  "valid_name": "diapoma alburnus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "tetragonopterus iheringii": {
+  "valid_name": "bryconamericus iheringii",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "tetragonopterus lacustris": {
+  "valid_name": "astyanax lacustris",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "tetragonopterus sanctaefilomenae": {
+  "valid_name": "bario sanctaefilomenae",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "tilapia nilotica": {
+  "valid_name": "oreochromis niloticus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "tilapia rendalli": {
+  "valid_name": "coptodon rendalli",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "trachelyopterus galeatus": {
+  "valid_name": "trachelyopterus galeatus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "trachycorystes galeatus": {
+  "valid_name": "trachelyopterus galeatus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "trachydoras paraguayensis": {
+  "valid_name": "trachydoras paraguayensis",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "trichomycterus candidus": {
+  "valid_name": "trichomycterus candidus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "trichomycterus castroi": {
+  "valid_name": "cambeva castroi",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "trichomycterus crassicaudatus": {
+  "valid_name": "cambeva crassicaudata",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "trichomycterus davisi": {
+  "valid_name": "cambeva davisi",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "trichomycterus diabolus": {
+  "valid_name": "cambeva diabola",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "trichomycterus igobi": {
+  "valid_name": "cambeva igobi",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "trichomycterus mboycy": {
+  "valid_name": "cambeva mboycy",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "trichomycterus naipi": {
+  "valid_name": "cambeva naipi",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "trichomycterus papilliferus": {
+  "valid_name": "cambeva papillifera",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "trichomycterus plumbeus": {
+  "valid_name": "cambeva plumbea",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "trichomycterus stawiarski": {
+  "valid_name": "cambeva stawiarski",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "trichomycterus taroba": {
+  "valid_name": "cambeva taroba",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "triportheus angulatus": {
+  "valid_name": "triportheus angulatus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "triportheus nematurus": {
+  "valid_name": "triportheus nematurus",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "xiphophorus hellerii": {
+  "valid_name": "xiphophorus hellerii",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "xiphorhamphus lacustris": {
+  "valid_name": "acestrorhynchus lacustris",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "zungaro jahu": {
+  "valid_name": "zungaro jahu",
+  "alias_type": "valid",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "zungaro mangurus": {
+  "valid_name": "pseudopimelodus mangurus",
+  "alias_type": "alias",
+  "alias_is_synonym": 0,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ },
+ "zungaro zungaro": {
+  "valid_name": "zungaro jahu",
+  "alias_type": "alias",
+  "alias_is_synonym": 1,
+  "current_is_synonym": 0,
+  "ambiguous": 0
+ }
+}

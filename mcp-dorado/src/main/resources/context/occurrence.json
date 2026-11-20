@@ -1,0 +1,2682 @@
+{
+  "schema_version": 1,
+  "source": {
+    "queries": [
+      "iguacu.txt",
+      "ivai.txt",
+      "piquiri.txt",
+      "tibagi.txt"
+    ],
+    "taxonomy": "valid_names.json",
+    "meaning": "species occurrence in river query reference lists; not GenBank specimen collection locality"
+  },
+  "rivers": [
+    "iguacu",
+    "ivai",
+    "piquiri",
+    "tibagi"
+  ],
+  "species": {
+    "acestrorhynchus lacustris": {
+      "rivers": [
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "acestrorhynchus lacustris",
+        "xiphorhamphus lacustris"
+      ]
+    },
+    "acrolebias carvalhoi": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "acrolebias carvalhoi",
+        "austrolebias carvalhoi",
+        "cynolebias carvalhoi"
+      ]
+    },
+    "ageneiosus inermis": {
+      "rivers": [
+        "piquiri"
+      ],
+      "query_names": [
+        "ageneiosus inermis",
+        "silurus inermis"
+      ]
+    },
+    "ageneiosus militaris": {
+      "rivers": [
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "ageneiosus militaris",
+        "ageniosus militaris"
+      ]
+    },
+    "ageneiosus ucayalensis": {
+      "rivers": [
+        "piquiri"
+      ],
+      "query_names": [
+        "ageneiosus ucayalensis"
+      ]
+    },
+    "ancistrus abilhoai": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "ancistrus abilhoai"
+      ]
+    },
+    "ancistrus agostinhoi": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "ancistrus agostinhoi"
+      ]
+    },
+    "ancistrus mullerae": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "ancistrus mullerae"
+      ]
+    },
+    "apareiodon affinis": {
+      "rivers": [
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "apareiodon affinis",
+        "parodon affinis"
+      ]
+    },
+    "apareiodon ibitiensis": {
+      "rivers": [
+        "tibagi"
+      ],
+      "query_names": [
+        "apareiodon ibitiensis"
+      ]
+    },
+    "apareiodon piracicabae": {
+      "rivers": [
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "apareiodon piracicabae",
+        "parodon piracicabae"
+      ]
+    },
+    "apareiodon vittatus": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "apareiodon vittatus"
+      ]
+    },
+    "apareiodon vladii": {
+      "rivers": [
+        "ivai",
+        "piquiri"
+      ],
+      "query_names": [
+        "apareiodon vladii"
+      ]
+    },
+    "aphyocharax anisitsi": {
+      "rivers": [
+        "tibagi"
+      ],
+      "query_names": [
+        "aphyocharax anisitsi"
+      ]
+    },
+    "apteronotus caudimaculosus": {
+      "rivers": [
+        "ivai"
+      ],
+      "query_names": [
+        "apteronotus caudimaculosus"
+      ]
+    },
+    "apteronotus ellisi": {
+      "rivers": [
+        "iguacu",
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "apteronotus ellisi",
+        "porotergus ellisi"
+      ]
+    },
+    "astyanax altiparanae": {
+      "rivers": [
+        "iguacu",
+        "tibagi"
+      ],
+      "query_names": [
+        "astyanax altiparanae"
+      ]
+    },
+    "astyanax eremus": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "astyanax eremus"
+      ]
+    },
+    "astyanax jordanensis": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "astyanax jordanensis"
+      ]
+    },
+    "astyanax lacustris": {
+      "rivers": [
+        "iguacu",
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "astyanax bimaculatus",
+        "tetragonopterus lacustris"
+      ]
+    },
+    "astyanax totae": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "astyanax totae"
+      ]
+    },
+    "auchenipterus osteomystax": {
+      "rivers": [
+        "piquiri"
+      ],
+      "query_names": [
+        "auchenipterus nuchalis",
+        "auchenipterus osteomystax",
+        "ceratocheilus osteomystax"
+      ]
+    },
+    "australoheros angiru": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "australoheros angiru"
+      ]
+    },
+    "australoheros kaaygua": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "australoheros kaaygua"
+      ]
+    },
+    "bario forestii": {
+      "rivers": [
+        "piquiri"
+      ],
+      "query_names": [
+        "bario forestii",
+        "moenkhausia forestii"
+      ]
+    },
+    "bario sanctaefilomenae": {
+      "rivers": [
+        "piquiri"
+      ],
+      "query_names": [
+        "bario sanctaefilomenae",
+        "moenkhausia sanctaefilomenae",
+        "tetragonopterus sanctaefilomenae"
+      ]
+    },
+    "brevidens striatus": {
+      "rivers": [
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "brevidens striatus",
+        "leporinus striatus"
+      ]
+    },
+    "brycon hilarii": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "brycon hilarii",
+        "chalceus hilarii"
+      ]
+    },
+    "brycon nattereri": {
+      "rivers": [
+        "ivai",
+        "tibagi"
+      ],
+      "query_names": [
+        "brycon nattereri"
+      ]
+    },
+    "brycon orbignyanus": {
+      "rivers": [
+        "iguacu",
+        "piquiri"
+      ],
+      "query_names": [
+        "brycon orbignyanus",
+        "chalceus orbignyanus"
+      ]
+    },
+    "bryconamericus coeruleus": {
+      "rivers": [
+        "tibagi"
+      ],
+      "query_names": [
+        "bryconamericus coeruleus"
+      ]
+    },
+    "bryconamericus exodon": {
+      "rivers": [
+        "piquiri"
+      ],
+      "query_names": [
+        "bryconamericus exodon"
+      ]
+    },
+    "bryconamericus iheringii": {
+      "rivers": [
+        "tibagi"
+      ],
+      "query_names": [
+        "bryconamericus iheringii",
+        "tetragonopterus iheringii"
+      ]
+    },
+    "bryconamericus ikaa": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "bryconamericus ikaa"
+      ]
+    },
+    "bryconamericus pyahu": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "bryconamericus pyahu"
+      ]
+    },
+    "bryconamericus turiuba": {
+      "rivers": [
+        "ivai"
+      ],
+      "query_names": [
+        "bryconamericus turiuba"
+      ]
+    },
+    "bunocephalus larai": {
+      "rivers": [
+        "tibagi"
+      ],
+      "query_names": [
+        "bunocephalus larai"
+      ]
+    },
+    "callichthys callichthys": {
+      "rivers": [
+        "iguacu",
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "callichthys callichthys",
+        "silurus callichthys"
+      ]
+    },
+    "cambeva castroi": {
+      "rivers": [
+        "iguacu",
+        "tibagi"
+      ],
+      "query_names": [
+        "cambeva castroi",
+        "trichomycterus castroi"
+      ]
+    },
+    "cambeva crassicaudata": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "cambeva crassicaudata",
+        "trichomycterus crassicaudatus"
+      ]
+    },
+    "cambeva davisi": {
+      "rivers": [
+        "iguacu",
+        "ivai",
+        "tibagi"
+      ],
+      "query_names": [
+        "cambeva davisi",
+        "pygidium davisi",
+        "trichomycterus davisi"
+      ]
+    },
+    "cambeva diabola": {
+      "rivers": [
+        "ivai",
+        "tibagi"
+      ],
+      "query_names": [
+        "cambeva diabola",
+        "trichomycterus diabolus"
+      ]
+    },
+    "cambeva igobi": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "cambeva igobi",
+        "trichomycterus igobi"
+      ]
+    },
+    "cambeva mboycy": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "cambeva mboycy",
+        "trichomycterus mboycy"
+      ]
+    },
+    "cambeva naipi": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "cambeva naipi",
+        "trichomycterus naipi"
+      ]
+    },
+    "cambeva papillifera": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "cambeva papillifera",
+        "trichomycterus papilliferus"
+      ]
+    },
+    "cambeva plumbea": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "cambeva plumbea",
+        "trichomycterus plumbeus"
+      ]
+    },
+    "cambeva stawiarski": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "cambeva stawiarski",
+        "pygidium stawiarski",
+        "trichomycterus stawiarski"
+      ]
+    },
+    "cambeva taroba": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "cambeva taroba",
+        "trichomycterus taroba"
+      ]
+    },
+    "cetopsis gobioides": {
+      "rivers": [
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "cetopsis gobioides",
+        "pseudocetopsis gobioides"
+      ]
+    },
+    "cetopsorhamdia iheringi": {
+      "rivers": [
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "cetopsorhamdia iheringi"
+      ]
+    },
+    "characidium gomesi": {
+      "rivers": [
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "characidium gomesi"
+      ]
+    },
+    "characidium heirmostigmata": {
+      "rivers": [
+        "ivai"
+      ],
+      "query_names": [
+        "characidium heirmostigmata"
+      ]
+    },
+    "characidium schubarti": {
+      "rivers": [
+        "tibagi"
+      ],
+      "query_names": [
+        "characidium schubarti"
+      ]
+    },
+    "characidium travassosi": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "characidium travassosi"
+      ]
+    },
+    "characidium zebra": {
+      "rivers": [
+        "tibagi"
+      ],
+      "query_names": [
+        "characidium zebra"
+      ]
+    },
+    "charax stenopterus": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "asiphonichthys stenopterus",
+        "charax stenopterus"
+      ]
+    },
+    "cheirodon stenodon": {
+      "rivers": [
+        "tibagi"
+      ],
+      "query_names": [
+        "cheirodon stenodon",
+        "odontostilbe stenodon"
+      ]
+    },
+    "cichla kelberi": {
+      "rivers": [
+        "iguacu",
+        "tibagi"
+      ],
+      "query_names": [
+        "cichla kelberi",
+        "cichla ocellaris"
+      ]
+    },
+    "cichla piquiti": {
+      "rivers": [
+        "piquiri"
+      ],
+      "query_names": [
+        "cichla piquiti"
+      ]
+    },
+    "cichlasoma paranaense": {
+      "rivers": [
+        "iguacu",
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "cichlasoma paranaense"
+      ]
+    },
+    "clarias gariepinus": {
+      "rivers": [
+        "iguacu",
+        "tibagi"
+      ],
+      "query_names": [
+        "clarias gariepinus",
+        "silurus heterobranchus gariepinus"
+      ]
+    },
+    "cnesterodon carnegiei": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "cnesterodon carnegiei"
+      ]
+    },
+    "cnesterodon hypselurus": {
+      "rivers": [
+        "tibagi"
+      ],
+      "query_names": [
+        "cnesterodon hypselurus"
+      ]
+    },
+    "cnesterodon omorgmatos": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "cnesterodon omorgmatos"
+      ]
+    },
+    "coptodon rendalli": {
+      "rivers": [
+        "iguacu",
+        "ivai",
+        "tibagi"
+      ],
+      "query_names": [
+        "chromis rendalli",
+        "coptodon rendalli",
+        "tilapia rendalli"
+      ]
+    },
+    "crenicichla haroldoi": {
+      "rivers": [
+        "tibagi"
+      ],
+      "query_names": [
+        "crenicichla haroldoi"
+      ]
+    },
+    "crenicichla iguassuensis": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "crenicichla iguassuensis"
+      ]
+    },
+    "crenicichla jaguarensis": {
+      "rivers": [
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "crenicichla jaguarensis"
+      ]
+    },
+    "crenicichla jupiaensis": {
+      "rivers": [
+        "piquiri"
+      ],
+      "query_names": [
+        "crenicichla jupiaensis"
+      ]
+    },
+    "crenicichla tapii": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "crenicichla tapii"
+      ]
+    },
+    "crenicichla tesay": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "crenicichla tesay"
+      ]
+    },
+    "crenicichla tuca": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "crenicichla tuca"
+      ]
+    },
+    "crenicichla yaha": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "crenicichla yaha"
+      ]
+    },
+    "ctenobrycon kennedyi": {
+      "rivers": [
+        "piquiri"
+      ],
+      "query_names": [
+        "ctenobrycon kennedyi",
+        "hemigrammus kennedyi",
+        "psellogrammus kennedyi"
+      ]
+    },
+    "ctenopharyngodon idella": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "ctenopharyngodon idella",
+        "leuciscus idella"
+      ]
+    },
+    "curculionichthys insperatus": {
+      "rivers": [
+        "ivai"
+      ],
+      "query_names": [
+        "curculionichthys insperatus",
+        "hisonotus insperatus"
+      ]
+    },
+    "curculionichthys oliveirai": {
+      "rivers": [
+        "ivai"
+      ],
+      "query_names": [
+        "curculionichthys oliveirai",
+        "hisonotus oliveirai"
+      ]
+    },
+    "cyphocharax modestus": {
+      "rivers": [
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "curimatorbis modestus",
+        "cyphocharax modestus"
+      ]
+    },
+    "cyphocharax naegelii": {
+      "rivers": [
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "curimatus nagelii",
+        "cyphocharax naegelii",
+        "cyphocharax nagelii"
+      ]
+    },
+    "cyprinus carpio": {
+      "rivers": [
+        "iguacu",
+        "ivai",
+        "piquiri"
+      ],
+      "query_names": [
+        "cyprinus carpio"
+      ]
+    },
+    "diapoma alburnus": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "astyanax alburnus",
+        "cyanocharax alburnus",
+        "diapoma alburnum",
+        "diapoma alburnus",
+        "tetragonopterus alburnus"
+      ]
+    },
+    "diapoma guarani": {
+      "rivers": [
+        "ivai"
+      ],
+      "query_names": [
+        "diapoma guarani",
+        "hyphessobrycon guarani"
+      ]
+    },
+    "eigenmannia trilineata": {
+      "rivers": [
+        "piquiri"
+      ],
+      "query_names": [
+        "eigenmannia trilineata"
+      ]
+    },
+    "eigenmannia virescens": {
+      "rivers": [
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "eigenmannia virescens",
+        "sternachus virescens"
+      ]
+    },
+    "erythrinus erythrinus": {
+      "rivers": [
+        "ivai"
+      ],
+      "query_names": [
+        "erythrinus erythrinus",
+        "synodus erythrinus"
+      ]
+    },
+    "farlowella amazonum": {
+      "rivers": [
+        "ivai"
+      ],
+      "query_names": [
+        "acestra amazonum",
+        "farlowella amazona",
+        "farlowella amazonum"
+      ]
+    },
+    "farlowella hahni": {
+      "rivers": [
+        "piquiri"
+      ],
+      "query_names": [
+        "farlowella hahni"
+      ]
+    },
+    "galeocharax gulo": {
+      "rivers": [
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "anacyrtus cynopotamus knerii",
+        "galeocharax gulo",
+        "galeocharax knerii"
+      ]
+    },
+    "garcialebias araucarianus": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "austrolebias araucarianus",
+        "garcialebias araucarianus"
+      ]
+    },
+    "geophagus brasiliensis": {
+      "rivers": [
+        "ivai",
+        "tibagi"
+      ],
+      "query_names": [
+        "chromis brasiliensis"
+      ]
+    },
+    "geophagus iporangensis": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "geophagus brasiliensis iporangensis",
+        "geophagus iporangensis"
+      ]
+    },
+    "glandulocauda caerulea": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "glandulocauda caerulea"
+      ]
+    },
+    "glanidium cesarpintoi": {
+      "rivers": [
+        "piquiri"
+      ],
+      "query_names": [
+        "glanidium cesarpintoi"
+      ]
+    },
+    "glanidium ribeiroi": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "glanidium ribeiroi"
+      ]
+    },
+    "gymnogeophagus taroba": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "gymnogeophagus taroba"
+      ]
+    },
+    "gymnotus carapo": {
+      "rivers": [
+        "tibagi"
+      ],
+      "query_names": [
+        "gymnotus carapo",
+        "gymnotus carapo australis"
+      ]
+    },
+    "gymnotus inaequilabiatus": {
+      "rivers": [
+        "iguacu",
+        "ivai",
+        "piquiri"
+      ],
+      "query_names": [
+        "carapus inaequilabiatus",
+        "gymnotus inaequilabiatus"
+      ]
+    },
+    "gymnotus omarorum": {
+      "rivers": [
+        "tibagi"
+      ],
+      "query_names": [
+        "gymnotus omarorum"
+      ]
+    },
+    "gymnotus pantanal": {
+      "rivers": [
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "gymnotus pantanal"
+      ]
+    },
+    "gymnotus sylvius": {
+      "rivers": [
+        "iguacu",
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "gymnotus sylvius"
+      ]
+    },
+    "hasemania maxillaris": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "hasemania maxillaris"
+      ]
+    },
+    "hasemania melanura": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "hasemania melanura"
+      ]
+    },
+    "hemiodus orthonops": {
+      "rivers": [
+        "ivai",
+        "piquiri"
+      ],
+      "query_names": [
+        "hemiodus orthonops"
+      ]
+    },
+    "hemisorubim platyrhynchos": {
+      "rivers": [
+        "piquiri"
+      ],
+      "query_names": [
+        "hemisorubim platyrhynchos",
+        "platystoma platyrhynchos"
+      ]
+    },
+    "heptapterus hollandi": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "heptapterus hollandi",
+        "imparfinis hollandi",
+        "pariolius hollandi"
+      ]
+    },
+    "heptapterus longicauda": {
+      "rivers": [
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "heptapterus borodini",
+        "heptapterus longicauda",
+        "imparfinis borodini"
+      ]
+    },
+    "heptapterus mustelinus": {
+      "rivers": [
+        "ivai",
+        "piquiri"
+      ],
+      "query_names": [
+        "heptapterus mustelinus",
+        "pimelodus mustelinus"
+      ]
+    },
+    "heptapterus stewarti": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "heptapterus stewarti"
+      ]
+    },
+    "hisonotus francirochai": {
+      "rivers": [
+        "ivai",
+        "tibagi"
+      ],
+      "query_names": [
+        "hisonotus francirochai",
+        "otocinclus francirochai"
+      ]
+    },
+    "hisonotus pachysarkos": {
+      "rivers": [
+        "ivai"
+      ],
+      "query_names": [
+        "hisonotus pachysarkos"
+      ]
+    },
+    "hisonotus paulinus": {
+      "rivers": [
+        "tibagi"
+      ],
+      "query_names": [
+        "hisonotus depressinotus",
+        "hisonotus paulinus",
+        "microlepidogaster depressinotus",
+        "otocinclus depressinotus"
+      ]
+    },
+    "hisonotus yasi": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "epactionotus yasi",
+        "hisonotus yasi"
+      ]
+    },
+    "hoplerythrinus unitaeniatus": {
+      "rivers": [
+        "ivai"
+      ],
+      "query_names": [
+        "erythrinus unitaeniatus",
+        "hoplerythrinus unitaeniatus"
+      ]
+    },
+    "hoplias intermedius": {
+      "rivers": [
+        "iguacu",
+        "ivai",
+        "piquiri"
+      ],
+      "query_names": [
+        "hoplias intermedius",
+        "hoplias microcephalus",
+        "macrodon intermedius"
+      ]
+    },
+    "hoplias malabaricus": {
+      "rivers": [
+        "tibagi"
+      ],
+      "query_names": [
+        "esox malabaricus"
+      ]
+    },
+    "hoplias mbigua": {
+      "rivers": [
+        "piquiri"
+      ],
+      "query_names": [
+        "hoplias mbigua"
+      ]
+    },
+    "hoplias misionera": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "hoplias misionera"
+      ]
+    },
+    "hoplisoma carlae": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "corydoras carlae",
+        "hoplisoma carlae"
+      ]
+    },
+    "hoplisoma ehrhardti": {
+      "rivers": [
+        "iguacu",
+        "ivai",
+        "tibagi"
+      ],
+      "query_names": [
+        "corydoras ehrhardti",
+        "hoplisoma ehrhardti"
+      ]
+    },
+    "hoplisoma lacrimostigmata": {
+      "rivers": [
+        "ivai"
+      ],
+      "query_names": [
+        "corydoras lacrimostigmata",
+        "hoplisoma lacrimostigmata"
+      ]
+    },
+    "hoplisoma longipinne": {
+      "rivers": [
+        "tibagi"
+      ],
+      "query_names": [
+        "corydoras longipinnis",
+        "hoplisoma longipinne"
+      ]
+    },
+    "hoplisoma paleatum": {
+      "rivers": [
+        "iguacu",
+        "tibagi"
+      ],
+      "query_names": [
+        "callichthys paleatus",
+        "corydoras paleatus",
+        "hoplisoma paleatum"
+      ]
+    },
+    "hoplosternum littorale": {
+      "rivers": [
+        "iguacu",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "callichthys littoralis",
+        "hoplosternum littorale"
+      ]
+    },
+    "hyphessobrycon bifasciatus": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "hyphessobrycon bifasciatus"
+      ]
+    },
+    "hyphessobrycon boulengeri": {
+      "rivers": [
+        "tibagi"
+      ],
+      "query_names": [
+        "hemigrammus boulengeri"
+      ]
+    },
+    "hyphessobrycon griemi": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "hyphessobrycon griemi"
+      ]
+    },
+    "hyphessobrycon reticulatus": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "hyphessobrycon reticulatus"
+      ]
+    },
+    "hyphessobrycon taurocephalus": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "hyphessobrycon taurocephalus"
+      ]
+    },
+    "hypophthalmichthys molitrix": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "hypophthalmichthys molitrix",
+        "leuciscus molitrix"
+      ]
+    },
+    "hypophthalmichthys nobilis": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "aristichthys nobilis",
+        "hypophthalmichthys nobilis",
+        "leuciscus nobilis"
+      ]
+    },
+    "hypophthalmus oremaculatus": {
+      "rivers": [
+        "piquiri"
+      ],
+      "query_names": [
+        "hypophthalmus oremaculatus"
+      ]
+    },
+    "hypostomus agna": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "hypostomus agna",
+        "plecostomus agna"
+      ]
+    },
+    "hypostomus albopunctatus": {
+      "rivers": [
+        "iguacu",
+        "ivai",
+        "piquiri"
+      ],
+      "query_names": [
+        "hypostomus albopunctatus",
+        "plecostomus albopunctatus"
+      ]
+    },
+    "hypostomus ancistroides": {
+      "rivers": [
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "hypostomus ancistroides",
+        "plecostomus ancistroides"
+      ]
+    },
+    "hypostomus cochliodon": {
+      "rivers": [
+        "piquiri"
+      ],
+      "query_names": [
+        "cochliodon cochliodon",
+        "hypostomus cochliodon"
+      ]
+    },
+    "hypostomus commersoni": {
+      "rivers": [
+        "iguacu",
+        "ivai",
+        "piquiri"
+      ],
+      "query_names": [
+        "hypostomus commersoni"
+      ]
+    },
+    "hypostomus derbyi": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "hypostomus derbyi",
+        "plecostomus derbyi"
+      ]
+    },
+    "hypostomus hermanni": {
+      "rivers": [
+        "ivai",
+        "piquiri"
+      ],
+      "query_names": [
+        "hypostomus hermanni",
+        "plecostomus hermanni"
+      ]
+    },
+    "hypostomus iheringii": {
+      "rivers": [
+        "ivai",
+        "piquiri"
+      ],
+      "query_names": [
+        "hypostomus iheringii",
+        "plecostomus iheringii"
+      ]
+    },
+    "hypostomus margaritifer": {
+      "rivers": [
+        "ivai",
+        "piquiri"
+      ],
+      "query_names": [
+        "hypostomus margaritifer",
+        "plecostomus margaritifer"
+      ]
+    },
+    "hypostomus myersi": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "hypostomus myersi",
+        "plecostomus myersi"
+      ]
+    },
+    "hypostomus nigromaculatus": {
+      "rivers": [
+        "tibagi"
+      ],
+      "query_names": [
+        "hypostomus nigromaculatus",
+        "plecostomus nigromaculatus"
+      ]
+    },
+    "hypostomus nigropunctatus": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "hypostomus nigropunctatus"
+      ]
+    },
+    "hypostomus regani": {
+      "rivers": [
+        "ivai",
+        "piquiri"
+      ],
+      "query_names": [
+        "hypostomus regani",
+        "plecostomus regani"
+      ]
+    },
+    "hypostomus strigaticeps": {
+      "rivers": [
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "hypostomus strigaticeps",
+        "plecostomus strigaticeps"
+      ]
+    },
+    "ictalurus punctatus": {
+      "rivers": [
+        "iguacu",
+        "ivai"
+      ],
+      "query_names": [
+        "ictalurus punctatus",
+        "silurus punctatus"
+      ]
+    },
+    "iheringichthys labrosus": {
+      "rivers": [
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "iheringichthys labrosus",
+        "pimelodus labrosus"
+      ]
+    },
+    "imparfinis mirini": {
+      "rivers": [
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "cetopsorhamdia mirini"
+      ]
+    },
+    "imparfinis schubarti": {
+      "rivers": [
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "imparfinis schubarti",
+        "nannorhamdia schubarti"
+      ]
+    },
+    "isbrueckerichthys calvus": {
+      "rivers": [
+        "tibagi"
+      ],
+      "query_names": [
+        "isbrueckerichthys calvus"
+      ]
+    },
+    "jenynsia diphyes": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "jenynsia diphyes"
+      ]
+    },
+    "jenynsia eigenmanni": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "fitzroyia eigenmanni",
+        "jenynsia eigenmanni"
+      ]
+    },
+    "leporellus vittatus": {
+      "rivers": [
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "leporellus vittatus",
+        "leporinus vittatus"
+      ]
+    },
+    "leporinus amae": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "leporinus amae"
+      ]
+    },
+    "leporinus amblyrhynchus": {
+      "rivers": [
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "leporinus amblyrhynchus"
+      ]
+    },
+    "leporinus friderici": {
+      "rivers": [
+        "iguacu",
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "leporinus friderici",
+        "salmo friderici"
+      ]
+    },
+    "leporinus lacustris": {
+      "rivers": [
+        "piquiri"
+      ],
+      "query_names": [
+        "leporinus lacustris"
+      ]
+    },
+    "leporinus octofasciatus": {
+      "rivers": [
+        "iguacu",
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "leporinus octofasciatus"
+      ]
+    },
+    "loricariichthys platymetopon": {
+      "rivers": [
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "loricariichthys platymetopon"
+      ]
+    },
+    "loricariichthys rostratus": {
+      "rivers": [
+        "piquiri"
+      ],
+      "query_names": [
+        "loricariichthys rostratus"
+      ]
+    },
+    "megalamphodus eques": {
+      "rivers": [
+        "tibagi"
+      ],
+      "query_names": [
+        "chirodon eques",
+        "hyphessobrycon eques",
+        "megalamphodus eques"
+      ]
+    },
+    "megalancistrus parananus": {
+      "rivers": [
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "chaetostomus aculeatus",
+        "megalancistrus aculeatus",
+        "megalancistrus parananus",
+        "pterygoplichthys ancistrus parananus",
+        "pterygoplichthys parananus"
+      ]
+    },
+    "megaleporinus elongatus": {
+      "rivers": [
+        "iguacu",
+        "tibagi"
+      ],
+      "query_names": [
+        "leporinus elongatus",
+        "megaleporinus elongatus"
+      ]
+    },
+    "megaleporinus macrocephalus": {
+      "rivers": [
+        "iguacu",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "leporinus macrocephalus",
+        "megaleporinus macrocephalus"
+      ]
+    },
+    "megaleporinus obtusidens": {
+      "rivers": [
+        "iguacu",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "curimatus obtusidens",
+        "leporinus obtusidens",
+        "megaleporinus obtusidens"
+      ]
+    },
+    "megaleporinus piavussu": {
+      "rivers": [
+        "iguacu",
+        "piquiri"
+      ],
+      "query_names": [
+        "leporinus piavussu",
+        "megaleporinus piavussu"
+      ]
+    },
+    "megalonema platanum": {
+      "rivers": [
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "iheringichthys platanus",
+        "megalonema platanum",
+        "megalonema platanus",
+        "pimelodus platanus"
+      ]
+    },
+    "metynnis maculatus": {
+      "rivers": [
+        "tibagi"
+      ],
+      "query_names": [
+        "metynnis maculatus",
+        "myletes maculatus"
+      ]
+    },
+    "micropterus salmoides": {
+      "rivers": [
+        "iguacu",
+        "ivai"
+      ],
+      "query_names": [
+        "huro salmoides",
+        "labrus salmoides",
+        "micropterus salmoides"
+      ]
+    },
+    "mimagoniates microlepis": {
+      "rivers": [
+        "iguacu",
+        "tibagi"
+      ],
+      "query_names": [
+        "mimagoniates microlepis",
+        "paragoniates microlepis"
+      ]
+    },
+    "misgurnus anguillicaudatus": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "cobitis anguillicaudata",
+        "misgurnus anguillicaudatus",
+        "misgurnus fossilis"
+      ]
+    },
+    "moenkhausia gracilima": {
+      "rivers": [
+        "piquiri"
+      ],
+      "query_names": [
+        "moenkhausia gracilima",
+        "moenkhausia lepidurus gracilimus"
+      ]
+    },
+    "moenkhausia intermedia": {
+      "rivers": [
+        "tibagi"
+      ],
+      "query_names": [
+        "moenkhausia dichrourus intermedius",
+        "moenkhausia intermedia"
+      ]
+    },
+    "myloplus tiete": {
+      "rivers": [
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "myletes tiete",
+        "myleus tiete",
+        "myloplus tiete"
+      ]
+    },
+    "neoplecostomus paranensis": {
+      "rivers": [
+        "tibagi"
+      ],
+      "query_names": [
+        "neoplecostomus paranensis"
+      ]
+    },
+    "neoplecostomus selenae": {
+      "rivers": [
+        "tibagi"
+      ],
+      "query_names": [
+        "neoplecostomus selenae"
+      ]
+    },
+    "neoplecostomus yapo": {
+      "rivers": [
+        "tibagi"
+      ],
+      "query_names": [
+        "neoplecostomus yapo"
+      ]
+    },
+    "odontesthes bonariensis": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "atherina bonariensis",
+        "basilichthys bonariensis",
+        "odontesthes bonariensis"
+      ]
+    },
+    "oligosarcus longirostris": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "oligosarcus longirostris"
+      ]
+    },
+    "oligosarcus paranensis": {
+      "rivers": [
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "oligosarcus paranensis"
+      ]
+    },
+    "oligosarcus pintoi": {
+      "rivers": [
+        "ivai",
+        "piquiri"
+      ],
+      "query_names": [
+        "oligosarcus pintoi"
+      ]
+    },
+    "oreochromis niloticus": {
+      "rivers": [
+        "iguacu",
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "chromis niloticus",
+        "oreochromis niloticus",
+        "perca nilotica",
+        "tilapia nilotica"
+      ]
+    },
+    "ossancora eigenmanni": {
+      "rivers": [
+        "piquiri"
+      ],
+      "query_names": [
+        "doras eigenmanni",
+        "ossancora eigenmanni",
+        "oxydoras eigenmanni"
+      ]
+    },
+    "osteogaster aenea": {
+      "rivers": [
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "corydoras aeneus",
+        "hoplosoma aeneum",
+        "osteogaster aenea"
+      ]
+    },
+    "otothyropsis biamnicus": {
+      "rivers": [
+        "iguacu",
+        "tibagi"
+      ],
+      "query_names": [
+        "otothyropsis biamnicus"
+      ]
+    },
+    "paravandellia oxyptera": {
+      "rivers": [
+        "tibagi"
+      ],
+      "query_names": [
+        "paravandellia oxyptera"
+      ]
+    },
+    "pareiorhaphis parmula": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "pareiorhaphis parmula"
+      ]
+    },
+    "parodon nasus": {
+      "rivers": [
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "parodon nasus",
+        "parodon tortuosus"
+      ]
+    },
+    "phalloceros caudimaculatus": {
+      "rivers": [
+        "tibagi"
+      ],
+      "query_names": [
+        "girardinus caudimaculatus",
+        "phalloceros caudimaculatus"
+      ]
+    },
+    "phalloceros harpagos": {
+      "rivers": [
+        "iguacu",
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "phalloceros harpagos",
+        "phalloceros reticulatus"
+      ]
+    },
+    "phalloceros spiloura": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "phalloceros spiloura"
+      ]
+    },
+    "phenacorhamdia tenebrosa": {
+      "rivers": [
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "heptapterus tenebrosus",
+        "imparfinis tenebrosus",
+        "phenacorhamdia tenebrosa"
+      ]
+    },
+    "piabarchus stramineus": {
+      "rivers": [
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "bryconamericus stramineus",
+        "piabarchus stramineus"
+      ]
+    },
+    "piabina argentea": {
+      "rivers": [
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "piabina argentea"
+      ]
+    },
+    "piaractus mesopotamicus": {
+      "rivers": [
+        "iguacu",
+        "piquiri"
+      ],
+      "query_names": [
+        "myletes myleus mesopotamicus",
+        "piaractus mesopotamicus"
+      ]
+    },
+    "pimelodella avanhandavae": {
+      "rivers": [
+        "ivai",
+        "piquiri"
+      ],
+      "query_names": [
+        "pimelodella avanhandavae"
+      ]
+    },
+    "pimelodella gracilis": {
+      "rivers": [
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "pimelodella gracilis",
+        "pimelodus gracilis"
+      ]
+    },
+    "pimelodella taenioptera": {
+      "rivers": [
+        "piquiri"
+      ],
+      "query_names": [
+        "pimelodella taenioptera"
+      ]
+    },
+    "pimelodus britskii": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "pimelodus britskii"
+      ]
+    },
+    "pimelodus maculatus": {
+      "rivers": [
+        "tibagi"
+      ],
+      "query_names": [
+        "pimelodus clarias",
+        "pimelodus maculatus"
+      ]
+    },
+    "pimelodus microstoma": {
+      "rivers": [
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "pimelodus heraldoi",
+        "pimelodus microstoma"
+      ]
+    },
+    "pimelodus mysteriosus": {
+      "rivers": [
+        "piquiri"
+      ],
+      "query_names": [
+        "pimelodus mysteriosus"
+      ]
+    },
+    "pimelodus ornatus": {
+      "rivers": [
+        "ivai",
+        "piquiri"
+      ],
+      "query_names": [
+        "pimelodus ornatus"
+      ]
+    },
+    "pimelodus ortmanni": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "pimelodus ortmanni"
+      ]
+    },
+    "pimelodus paranaensis": {
+      "rivers": [
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "pimelodus paranaensis"
+      ]
+    },
+    "pinirampus pirinampu": {
+      "rivers": [
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "pimelodus pirinampu",
+        "pinirampus pirinampu"
+      ]
+    },
+    "plagioscion squamosissimus": {
+      "rivers": [
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "plagioscion squamosissimus",
+        "sciaena squamosissima"
+      ]
+    },
+    "poecilia reticulata": {
+      "rivers": [
+        "iguacu",
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "lebistes reticulata",
+        "poecilia reticulata"
+      ]
+    },
+    "potamotrygon amandae": {
+      "rivers": [
+        "piquiri"
+      ],
+      "query_names": [
+        "potamotrygon amandae"
+      ]
+    },
+    "potamotrygon falkneri": {
+      "rivers": [
+        "ivai",
+        "piquiri"
+      ],
+      "query_names": [
+        "potamotrygon falkneri"
+      ]
+    },
+    "prochilodus lineatus": {
+      "rivers": [
+        "iguacu",
+        "ivai",
+        "tibagi"
+      ],
+      "query_names": [
+        "paca lineatus",
+        "prochilodus lineatus"
+      ]
+    },
+    "proloricaria prolixa": {
+      "rivers": [
+        "ivai",
+        "tibagi"
+      ],
+      "query_names": [
+        "loricaria prolixa",
+        "proloricaria prolixa"
+      ]
+    },
+    "psalidodon anisitsi": {
+      "rivers": [
+        "tibagi"
+      ],
+      "query_names": [
+        "hemigrammus anisitsi",
+        "hyphessobrycon anisitsi",
+        "psalidodon anisitsi"
+      ]
+    },
+    "psalidodon bockmanni": {
+      "rivers": [
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "astyanax bockmanni",
+        "psalidodon bockmanni"
+      ]
+    },
+    "psalidodon dissimilis": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "astyanax dissimilis",
+        "psalidodon dissimilis"
+      ]
+    },
+    "psalidodon fasciatus": {
+      "rivers": [
+        "tibagi"
+      ],
+      "query_names": [
+        "astyanax fasciatus",
+        "chalceus fasciatus",
+        "psalidodon fasciatus"
+      ]
+    },
+    "psalidodon gymnodontus": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "astyanax gymnodontus",
+        "psalidodon gymnodontus"
+      ]
+    },
+    "psalidodon gymnogenys": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "astyanax gymnogenys",
+        "astyanax longirhinus",
+        "psalidodon gymnogenys"
+      ]
+    },
+    "psalidodon minor": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "astyanax minor",
+        "psalidodon minor"
+      ]
+    },
+    "psalidodon paranae": {
+      "rivers": [
+        "tibagi"
+      ],
+      "query_names": [
+        "astyanax paranae",
+        "astyanax scabripinnis",
+        "astyanax scabripinnis paranae",
+        "psalidodon paranae"
+      ]
+    },
+    "psalidodon schubarti": {
+      "rivers": [
+        "piquiri"
+      ],
+      "query_names": [
+        "astyanax schubarti",
+        "psalidodon schubarti"
+      ]
+    },
+    "psalidodon serratus": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "astyanax serratus",
+        "psalidodon serratus"
+      ]
+    },
+    "psalidodon varzeae": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "astyanax varzeae",
+        "psalidodon varzeae"
+      ]
+    },
+    "psalidon bifasciatus": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "astyanax bifasciatus",
+        "psalidon bifasciatus"
+      ]
+    },
+    "pseudopimelodus mangurus": {
+      "rivers": [
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "pimelodus mangurus",
+        "pseudopimelodus mangurus",
+        "zungaro mangurus"
+      ]
+    },
+    "pseudoplatystoma corruscans": {
+      "rivers": [
+        "iguacu",
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "platystoma corruscans",
+        "pseudoplatystoma corruscans"
+      ]
+    },
+    "pseudoplatystoma reticulatum": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "pseudoplatystoma fasciatum",
+        "pseudoplatystoma fasciatum reticulatum",
+        "pseudoplatystoma reticulatum"
+      ]
+    },
+    "pterodoras granulosus": {
+      "rivers": [
+        "piquiri"
+      ],
+      "query_names": [
+        "doras granulosus",
+        "pterodoras granulosus"
+      ]
+    },
+    "pterygoplichthys ambrosettii": {
+      "rivers": [
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "liposarcus ambrosettii",
+        "pterygoplichthys ambrosettii"
+      ]
+    },
+    "pyrrhulina australis": {
+      "rivers": [
+        "tibagi"
+      ],
+      "query_names": [
+        "pyrrhulina australe",
+        "pyrrhulina australis"
+      ]
+    },
+    "rhamdia quelen": {
+      "rivers": [
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "pimelodus quelen"
+      ]
+    },
+    "rhamdia voulezi": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "rhamdia branneri voulezi",
+        "rhamdia voulezi"
+      ]
+    },
+    "rhamdiopsis moreirai": {
+      "rivers": [
+        "iguacu",
+        "tibagi"
+      ],
+      "query_names": [
+        "rhamdiopsis moreirai"
+      ]
+    },
+    "rhamphichthys hahni": {
+      "rivers": [
+        "piquiri"
+      ],
+      "query_names": [
+        "rhamphichthys hahni",
+        "sternarchorhamphus hahni"
+      ]
+    },
+    "rhaphiodon vulpinus": {
+      "rivers": [
+        "piquiri"
+      ],
+      "query_names": [
+        "rhaphiodon vulpinus"
+      ]
+    },
+    "rhinelepis aspera": {
+      "rivers": [
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "rhinelepis aspera"
+      ]
+    },
+    "rhinodoras dorbignyi": {
+      "rivers": [
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "doras oxydoras dorbignyi",
+        "rhinodoras dorbignyi"
+      ]
+    },
+    "rhyacoglanis pulcher": {
+      "rivers": [
+        "piquiri"
+      ],
+      "query_names": [
+        "pimelodus pseudopimelodus pulcher",
+        "pseudopimelodus pulcher",
+        "rhyacoglanis pulcher"
+      ]
+    },
+    "rineloricaria langei": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "rineloricaria langei"
+      ]
+    },
+    "rineloricaria latirostris": {
+      "rivers": [
+        "tibagi"
+      ],
+      "query_names": [
+        "loricaria latirostris",
+        "rineloricaria latirostris"
+      ]
+    },
+    "rineloricaria maacki": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "rineloricaria maacki"
+      ]
+    },
+    "rineloricaria pentamaculata": {
+      "rivers": [
+        "ivai",
+        "tibagi"
+      ],
+      "query_names": [
+        "rineloricaria pentamaculata"
+      ]
+    },
+    "roeboides descalvadensis": {
+      "rivers": [
+        "iguacu",
+        "ivai",
+        "piquiri"
+      ],
+      "query_names": [
+        "roeboides descalvadensis"
+      ]
+    },
+    "salminus brasiliensis": {
+      "rivers": [
+        "iguacu",
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "hydrocynus brasiliensis",
+        "salminus brasiliensis",
+        "salminus maxillosus"
+      ]
+    },
+    "salminus hilarii": {
+      "rivers": [
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "salminus hilarii"
+      ]
+    },
+    "saxatilia britskii": {
+      "rivers": [
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "crenicichla britskii",
+        "saxatilia britskii"
+      ]
+    },
+    "schizodon altoparanae": {
+      "rivers": [
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "schizodon altoparanae"
+      ]
+    },
+    "schizodon borellii": {
+      "rivers": [
+        "iguacu",
+        "piquiri"
+      ],
+      "query_names": [
+        "anostomus borellii",
+        "schizodon borellii"
+      ]
+    },
+    "schizodon intermedius": {
+      "rivers": [
+        "tibagi"
+      ],
+      "query_names": [
+        "schizodon intermedius"
+      ]
+    },
+    "schizodon nasutus": {
+      "rivers": [
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "schizodon nasutus"
+      ]
+    },
+    "serrapinnus notomelas": {
+      "rivers": [
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "cheirodon notomelas",
+        "odontostilbe notomelas",
+        "serrapinnus notomelas"
+      ]
+    },
+    "serrasalmus maculatus": {
+      "rivers": [
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "serrasalmus maculatus"
+      ]
+    },
+    "serrasalmus marginatus": {
+      "rivers": [
+        "piquiri"
+      ],
+      "query_names": [
+        "serrasalmus marginatus"
+      ]
+    },
+    "serrasalmus spilopleura": {
+      "rivers": [
+        "tibagi"
+      ],
+      "query_names": [
+        "serrasalmus spilopleura"
+      ]
+    },
+    "sorubim lima": {
+      "rivers": [
+        "piquiri"
+      ],
+      "query_names": [
+        "silurus lima",
+        "sorubim lima"
+      ]
+    },
+    "steindachneridion melanodermatum": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "steindachneridion melanodermatum"
+      ]
+    },
+    "steindachneridion scriptum": {
+      "rivers": [
+        "iguacu",
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "steindachneria scripta",
+        "steindachneridion inscriptum",
+        "steindachneridion scripta",
+        "steindachneridion scriptum"
+      ]
+    },
+    "steindachnerina brevipinna": {
+      "rivers": [
+        "iguacu",
+        "ivai"
+      ],
+      "query_names": [
+        "curimatus gilberti brevipinnis",
+        "steindachnerina brevipinna"
+      ]
+    },
+    "steindachnerina insculpta": {
+      "rivers": [
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "cruxentina insculpta",
+        "steindachnerina insculpta"
+      ]
+    },
+    "sternarchorhynchus britski": {
+      "rivers": [
+        "tibagi"
+      ],
+      "query_names": [
+        "sternarchorhynchus britski"
+      ]
+    },
+    "sternopygus macrurus": {
+      "rivers": [
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "gymnotus macrurus",
+        "sternopygus macrurus"
+      ]
+    },
+    "synbranchus marmoratus": {
+      "rivers": [
+        "iguacu",
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "synbranchus marmoratus"
+      ]
+    },
+    "tatia jaracatia": {
+      "rivers": [
+        "iguacu"
+      ],
+      "query_names": [
+        "tatia jaracatia"
+      ]
+    },
+    "tatia neivai": {
+      "rivers": [
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "query_names": [
+        "glanidium neivai",
+        "tatia aulopygia",
+        "tatia neivai"
+      ]
+    },
+    "trachelyopterus galeatus": {
+      "rivers": [
+        "ivai",
+        "piquiri"
+      ],
+      "query_names": [
+        "parauchenipterus galeatus",
+        "silurus galeatus",
+        "trachelyopterus galeatus",
+        "trachycorystes galeatus"
+      ]
+    },
+    "trachydoras paraguayensis": {
+      "rivers": [
+        "ivai",
+        "piquiri"
+      ],
+      "query_names": [
+        "hemidoras paraguayensis",
+        "trachydoras paraguayensis"
+      ]
+    },
+    "trichomycterus candidus": {
+      "rivers": [
+        "tibagi"
+      ],
+      "query_names": [
+        "eremophilus candidus",
+        "trichomycterus candidus"
+      ]
+    },
+    "triportheus angulatus": {
+      "rivers": [
+        "tibagi"
+      ],
+      "query_names": [
+        "chalceus angulatus",
+        "triportheus angulatus"
+      ]
+    },
+    "triportheus nematurus": {
+      "rivers": [
+        "tibagi"
+      ],
+      "query_names": [
+        "chalcinus nematurus",
+        "triportheus nematurus"
+      ]
+    },
+    "xiphophorus hellerii": {
+      "rivers": [
+        "iguacu",
+        "tibagi"
+      ],
+      "query_names": [
+        "xiphophorus hellerii"
+      ]
+    },
+    "zungaro jahu": {
+      "rivers": [
+        "piquiri"
+      ],
+      "query_names": [
+        "paulicea jahu",
+        "zungaro jahu",
+        "zungaro zungaro"
+      ]
+    }
+  },
+  "ambiguous_names": {
+    "astyanax lacustris": {
+      "rivers": [
+        "iguacu",
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "candidates": [
+        "astyanax altiparanae",
+        "astyanax lacustris"
+      ]
+    },
+    "geophagus brasiliensis": {
+      "rivers": [
+        "iguacu",
+        "ivai",
+        "tibagi"
+      ],
+      "candidates": [
+        "geophagus brasiliensis",
+        "geophagus iporangensis"
+      ]
+    },
+    "hoplias malabaricus": {
+      "rivers": [
+        "iguacu",
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "candidates": [
+        "hoplias intermedius",
+        "hoplias malabaricus"
+      ]
+    },
+    "hyphessobrycon boulengeri": {
+      "rivers": [
+        "iguacu",
+        "tibagi"
+      ],
+      "candidates": [
+        "hyphessobrycon boulengeri",
+        "hyphessobrycon reticulatus"
+      ]
+    },
+    "imparfinis mirini": {
+      "rivers": [
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "candidates": [
+        "imparfinis mirini",
+        "imparfinis schubarti"
+      ]
+    },
+    "pseudopimelodus zungaro": {
+      "rivers": [
+        "piquiri",
+        "tibagi"
+      ],
+      "candidates": [
+        "pseudopimelodus mangurus",
+        "rhyacoglanis pulcher"
+      ]
+    },
+    "rhamdia branneri": {
+      "rivers": [
+        "iguacu"
+      ],
+      "candidates": [
+        "rhamdia branneri",
+        "rhamdia voulezi"
+      ]
+    },
+    "rhamdia quelen": {
+      "rivers": [
+        "iguacu",
+        "ivai",
+        "piquiri",
+        "tibagi"
+      ],
+      "candidates": [
+        "rhamdia branneri",
+        "rhamdia quelen"
+      ]
+    }
+  }
+}
